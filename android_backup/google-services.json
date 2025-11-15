@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "585267890180",
+    "project_id": "chat-application-e5133",
+    "storage_bucket": "chat-application-e5133.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585267890180:android:feeefa769ef892f30a8d51",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH0fXZrVf0t2oJvyKXe85zZxZ_GsWONns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585267890180:android:537526597faed3210a8d51",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_ui_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH0fXZrVf0t2oJvyKXe85zZxZ_GsWONns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
